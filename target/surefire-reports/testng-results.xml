@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-01T04:17:13Z" name="Surefire suite" finished-at="2021-06-01T04:17:13Z" duration-ms="13">
+    <groups>
+    </groups>
+    <test started-at="2021-06-01T04:17:13Z" name="Surefire test" finished-at="2021-06-01T04:17:13Z" duration-ms="13">
+      <class name="com.mic4126.AppTest">
+        <test-method signature="test_one()[pri:0, instance:com.mic4126.AppTest@c267ef4]" started-at="2021-06-01T12:17:13Z" name="test_one" finished-at="2021-06-01T12:17:13Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_one -->
+      </class> <!-- com.mic4126.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
